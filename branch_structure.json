@@ -1,0 +1,18 @@
+{
+  "default_branch": "master",
+  "branches": [
+    "docs/sdk-deprecation-policy-1105",
+    "master",
+    "origin"
+  ],
+  "parent": {
+    "docs/sdk-deprecation-policy-1105": "master",
+    "master": null,
+    "origin": "master"
+  },
+  "order": [
+    "master",
+    "docs/sdk-deprecation-policy-1105",
+    "origin"
+  ]
+}

@@ -11,5 +11,12 @@ CLAUDE.md
 sdk/docs/
 node_modules/
 dist/
-.env
 *.log
+
+# Local build / debug artifacts (do not commit)
+build*.txt
+debug_*.py
+fix_*.py
+PUSH_TO_BRANCH.sh
+PUSH_TO_BRANCH.bat
+config.bat
